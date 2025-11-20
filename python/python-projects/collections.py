@@ -55,3 +55,5 @@ for key in fav_snacks:
     print(fav_snacks[key])
 for key, value in fav_snacks.items():
     print(key, value)
+
+    print("hello world")
